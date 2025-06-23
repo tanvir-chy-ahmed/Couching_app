@@ -1,16 +1,101 @@
-# success_academy_v1
+# 🎓 Success Academy - Coaching Center App
 
-A new Flutter project.
+A modern mobile app built using **Flutter** for managing a coaching center named **Success Academy**. The app provides features for students to check class schedules, view top teachers, make payments, and get notified — all from a sleek mobile UI.
 
-## Getting Started
+## 📱 App Screenshots
 
-This project is a starting point for a Flutter application.
+> *(Add your screenshots here once available)*
 
-A few resources to get you started if this is your first Flutter project:
+| Home Screen | Teachers | Schedule | Payment | Profile |
+|-------------|----------|----------|---------|---------|
+| ![screenshot](assets/screens/home.png) | ![screenshot](assets/screens/teachers.png) | ![screenshot](assets/screens/schedule.png) | ![screenshot](assets/screens/payment.png) | ![screenshot](assets/screens/profile.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+- 🏠 **Home Screen** with:
+  - Image slider
+  - Featured teachers section
+  - Top classes list
+  - Quick access buttons (Schedule, Payment, Notices)
+
+- 📆 **Class Schedule**
+- 👨‍🏫 **Teachers List**
+- 💳 **Monthly Payment System** (UI only/test)
+- 🔔 **Notices**
+- 🙍 **Student Profile**
+
+---
+
+## 📦 Project Structure
+
+```
+lib/
+├── components/           # Reusable widgets like top bar, bottom nav, image slider
+├── screens/
+│   ├── HomeScreen.dart
+│   ├── PaymentScreen.dart
+│   ├── ProfileScreen.dart
+│   ├── ScheduleScreen.dart
+│   ├── TeachersScreen.dart
+│   └── subscreens/
+│       └── NoticesScreen.dart
+├── MainScreen.dart       # Navigation and screen switching
+└── main.dart             # Entry point
+```
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter 💙
+- Dart
+- Material Design
+
+---
+
+## 📥 Getting Started
+
+1. **Clone the repo**
+
+```bash
+git clone https://github.com/yourusername/success_academy_app.git
+cd success_academy_app
+```
+
+2. **Install dependencies**
+
+```bash
+flutter pub get
+```
+
+3. **Run the app**
+
+```bash
+flutter run
+```
+
+---
+
+## 📌 Todo
+
+- Add Firebase Auth / Login
+- Add real-time payment integration
+- Store notices and class data in backend
+- Teacher profile screens
+
+---
+
+## 🙋‍♂️ Author
+
+**Tanvir Ahmed Chowdhury**  
+📧 [tanvir-chy@gmail.com]  
+🔗 [GitHub](https://github.com/tanvir-chy-ahmed) | [LinkedIn](https://www.linkedin.com/in/tanvir-ahmed-chy-126191367/)
+
+---
+
+## ⭐️ Show your support
+
+Give a ⭐️ if you like this project!
+

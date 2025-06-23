@@ -4,7 +4,6 @@ A modern mobile app built using **Flutter** for managing a coaching center named
 
 ## 📱 App Screenshots
 
-> *(Add your screenshots here once available)*
 
 | Home Screen | Teachers | Schedule | Payment | Profile |
 |-------------|----------|----------|---------|---------|
@@ -90,7 +89,7 @@ flutter run
 ## 🙋‍♂️ Author
 
 **Tanvir Ahmed Chowdhury**  
-📧 [tanvir-chy@gmail.com]  
+📧 [tanvirchy269@gmail.com]  
 🔗 [GitHub](https://github.com/tanvir-chy-ahmed) | [LinkedIn](https://www.linkedin.com/in/tanvir-ahmed-chy-126191367/)
 
 ---

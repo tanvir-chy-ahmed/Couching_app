@@ -8,7 +8,7 @@ A modern mobile app built using **Flutter** for managing a coaching center named
 
 | Home Screen | Teachers | Schedule | Payment | Profile |
 |-------------|----------|----------|---------|---------|
-| ![screenshot](assets/screens/home_ui.png) | ![screenshot](assets/screens/teachers_ui.png) | ![screenshot](assets/screens/schedule_ui.png) | ![screenshot](assets/screens/payment_ui.png) | ![screenshot](assets/screens/profile_ui.png) |
+| ![screenshot](assets/home_ui.png) | ![screenshot](assets/teachers_ui.png) | ![screenshot](assets/schedule_ui.png) | ![screenshot](assets/payment_ui.png) | ![screenshot](assets/profile_ui.png) |
 
 ---
 
